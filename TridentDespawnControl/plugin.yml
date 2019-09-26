@@ -1,0 +1,9 @@
+name: TridentDespawnControl
+author: Strahan
+main: com.sylvcraft.TridentDespawnControl
+version: 1.0
+api-version: 1.13
+description: Controls how long a trident lasts
+commands:
+  tdc:
+    description: Plugin command

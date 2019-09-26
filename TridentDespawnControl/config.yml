@@ -1,0 +1,10 @@
+messages:
+  access-denied: '&cAccess denied!'
+  invalid-value: '&cInvalid value!'
+  reloaded: '&bConfiguration reloaded!'
+  status: '&bTotal Loops: &6%loops%%br%&bLoop Length: &6%looplength%%br%&bDefault Despawn Rate: &6%despawnrate%'
+  loops-set: '&6Number of loops set to &e%loops%'
+  perm-set: '&6Permission requirement &7(tdc.enabled) &6is &e%status%'
+  help-loops: '&b/tdc loops &8# &7- &6Sets the number of loops for the trident to last'
+  help-status: '&b/tdc status &7- &6Shows current TDC settings'
+  help-perm: '&b/tdc perm &7- &6Toggles whether or not people require the tdc.enable permission'
